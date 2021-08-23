@@ -24,7 +24,7 @@ const NavBar = () => {
 	return (
 		<>
 			<nav className={classes["main-nav"]}>
-				<h3 className={classes["logo"]}>Teen Patti</h3>
+				<h3 className={classes["logo"]}>Mera Badala</h3>
 
 				<ul>
 					{isLoggedIn && (
